@@ -1,2 +1,2 @@
 # CodeAlpha My Portfolio
- This repository includes the code for my personal portfolio website, featuring sections for  About Me, Skills, Projects, Contact, and CV. It’s designed to be responsive and showcase my web development skills.
+This repository contains the source code for my personal portfolio website. The site showcases my professional skills, projects, and contact information. It includes sections such as an About Me, a detailed Skills overview, a Projects gallery, a Contact form, and a downloadable CV. The website is designed to be responsive and user-friendly, reflecting my expertise in web development.
